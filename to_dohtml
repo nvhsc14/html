@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <titile>simple To-Do List</titile>
+    <head>
+        <titile>simple To-Do List</titile>
 
-    <style>
+        <style>
         body {
             font-family: Arial, sans-serif;
             background: #f2f2f2;
@@ -45,8 +45,8 @@
             color: red;
             cursor: pointer;
         }
-    </style>
-</head>
+        </style>
+    </head>
 
 <body>
 
